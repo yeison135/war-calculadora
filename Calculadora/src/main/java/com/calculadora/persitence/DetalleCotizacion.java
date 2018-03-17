@@ -60,6 +60,46 @@ public class DetalleCotizacion implements Serializable {
     @JoinColumn(name = "opcion_linea_idopcion_linea", referencedColumnName = "idopcion_linea")
     @ManyToOne(optional = false)
     private OpcionLinea opcionLineaIdopcionLinea;
+    @Size(max = 15)
+    @Column(name = "unidadmolde")
+    private String unidadmolde;
+    @Size(max = 10)
+    @Column(name = "moldecompra")
+    private String moldecompra;
+    @Size(max = 10)
+    @Column(name = "conceptosellador")
+    private String conceptosellador;
+    @Size(max = 10)
+    @Column(name = "conceptofibra")
+    private String conceptofibra;
+    @Size(max = 10)
+    @Column(name = "centimetrofibra")
+    private String centimetrofibra;
+    @Size(max = 45)
+    @Column(name = "detalle_cotizacioncol")
+    private String detalleCotizacioncol;
+    @Size(max = 10)
+    @Column(name = "PSI-integral")
+    private String pSIintegral;
+    @Size(max = 10)
+    @Column(name = "PSI-porcentaje")
+    private String pSIporcentaje;
+    @Size(max = 15)
+    @Column(name = "dosificacion")
+    private String dosificacion;
+    @Size(max = 15)
+    @Column(name = "unidadporlitro10")
+    private String unidadporlitro10;
+    @Size(max = 15)
+    @Column(name = "unidadporlitro20")
+    private String unidadporlitro20;
+    @Size(max = 15)
+    @Column(name = "unidadporkilo10")
+    private String unidadporkilo10;
+    @Size(max = 15)
+    @Column(name = "unidadporkilo20")
+    private String unidadporkilo20;
+
 
     public DetalleCotizacion() {
     }
@@ -147,6 +187,110 @@ public class DetalleCotizacion implements Serializable {
     @Override
     public String toString() {
         return "com.calculadora.persitence.DetalleCotizacion[ iddetalleCotizacion=" + iddetalleCotizacion + " ]";
+    }
+
+    public String getUnidadmolde() {
+        return unidadmolde;
+    }
+
+    public void setUnidadmolde(String unidadmolde) {
+        this.unidadmolde = unidadmolde;
+    }
+
+    public String getMoldecompra() {
+        return moldecompra;
+    }
+
+    public void setMoldecompra(String moldecompra) {
+        this.moldecompra = moldecompra;
+    }
+
+    public String getConceptosellador() {
+        return conceptosellador;
+    }
+
+    public void setConceptosellador(String conceptosellador) {
+        this.conceptosellador = conceptosellador;
+    }
+
+    public String getConceptofibra() {
+        return conceptofibra;
+    }
+
+    public void setConceptofibra(String conceptofibra) {
+        this.conceptofibra = conceptofibra;
+    }
+
+    public String getCentimetrofibra() {
+        return centimetrofibra;
+    }
+
+    public void setCentimetrofibra(String centimetrofibra) {
+        this.centimetrofibra = centimetrofibra;
+    }
+
+    public String getDetalleCotizacioncol() {
+        return detalleCotizacioncol;
+    }
+
+    public void setDetalleCotizacioncol(String detalleCotizacioncol) {
+        this.detalleCotizacioncol = detalleCotizacioncol;
+    }
+
+    public String getPSIintegral() {
+        return pSIintegral;
+    }
+
+    public void setPSIintegral(String pSIintegral) {
+        this.pSIintegral = pSIintegral;
+    }
+
+    public String getPSIporcentaje() {
+        return pSIporcentaje;
+    }
+
+    public void setPSIporcentaje(String pSIporcentaje) {
+        this.pSIporcentaje = pSIporcentaje;
+    }
+
+    public String getDosificacion() {
+        return dosificacion;
+    }
+
+    public void setDosificacion(String dosificacion) {
+        this.dosificacion = dosificacion;
+    }
+
+    public String getUnidadporlitro10() {
+        return unidadporlitro10;
+    }
+
+    public void setUnidadporlitro10(String unidadporlitro10) {
+        this.unidadporlitro10 = unidadporlitro10;
+    }
+
+    public String getUnidadporlitro20() {
+        return unidadporlitro20;
+    }
+
+    public void setUnidadporlitro20(String unidadporlitro20) {
+        this.unidadporlitro20 = unidadporlitro20;
+    }
+
+    public String getUnidadporkilo10() {
+        return unidadporkilo10;
+    }
+
+    public void setUnidadporkilo10(String unidadporkilo10) {
+        this.unidadporkilo10 = unidadporkilo10;
+    }
+
+    public String getUnidadporkilo20() {
+        return unidadporkilo20;
+    }
+
+    public void setUnidadporkilo20(String unidadporkilo20) {
+        this.unidadporkilo20 = unidadporkilo20;
     }
     
 }

@@ -29,7 +29,6 @@ public class ApplicationConfig extends Application {
      * If required, comment out calling this method in getClasses().
      */
     private void addRestResourceClasses(Set<Class<?>> resources) {
-        resources.add(com.calcualdora.config.CORSFilter.class);
         resources.add(com.calculadora.config.CORSFilter.class);
         resources.add(com.calculadora.resource.CalculadoraResource.class);
     }

@@ -22,7 +22,6 @@ com\calculadora\persitence\Cliente_.class
 com\calculadora\manager\CalculadoraManager.class
 com\calculadora\persitence\DependeColor_.class
 com\calculadora\persitence\Opcion.class
-com\calcualdora\config\CORSFilter.class
 com\calculadora\persitence\OpcionLinea_.class
 com\calculadora\Dtos\TotalDosi.class
 com\calculadora\persitence\Opcion_.class

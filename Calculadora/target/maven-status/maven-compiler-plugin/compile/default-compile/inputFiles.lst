@@ -1,22 +1,21 @@
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\manager\CalculadoraManager.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\DetalleCotizacion.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\Herramienta.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\Molde.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\config\CORSFilter.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\Dtos\DetalleCotizacionDto.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\Cliente.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\LineaDeTrabajo.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\Dtos\TotalDosi.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\FacturaCotizar.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\filtroDTO\FiltroDTO.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\DependeColor.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\Color.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\DependeColorColor.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\Opcion.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\Dtos\ClienteDto.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\resource\CalculadoraResource.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calcualdora\config\CORSFilter.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\NoColor.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\entityManager\EMF.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\resource\ApplicationConfig.java
-C:\Users\Yeisson alvarez\Documents\NetBeansProjects\Calculadora\src\main\java\com\calculadora\persitence\OpcionLinea.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\DetalleCotizacion.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\Herramienta.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\Color.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\Molde.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\Dtos\TotalDosi.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\DependeColor.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\OpcionLinea.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\Dtos\ClienteDto.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\resource\CalculadoraResource.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\entityManager\EMF.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\manager\CalculadoraManager.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\Cliente.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\Opcion.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\NoColor.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\FacturaCotizar.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\LineaDeTrabajo.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\Dtos\DetalleCotizacionDto.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\config\CORSFilter.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\resource\ApplicationConfig.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\filtroDTO\FiltroDTO.java
+C:\Users\yalvarez\Documents\War-calculadora\war-calculadora\Calculadora\src\main\java\com\calculadora\persitence\DependeColorColor.java

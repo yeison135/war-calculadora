@@ -249,6 +249,7 @@ public class CalculadoraResource {
             row.createCell(1).setCellValue("Cantidad");
             row.createCell(2).setCellValue("Valor");
             int contador = 5;
+            if(factura.getIdfacturaCotizar() != null && !factura.getDetalleCotizacionList().isEmpty()){
                 for (int i = 0; i < factura.getDetalleCotizacionList().size(); i++) {
                     HSSFRow campos = sheet.createRow((short) contador);
                     if (factura.getDetalleCotizacionList().get(i).getConcepto()!= null) {
@@ -267,6 +268,7 @@ public class CalculadoraResource {
                     }
                   contador++;      
             }
+            }
             try (FileOutputStream fileOut = new FileOutputStream(filename)) {
                 workbook.write(fileOut);
             }
@@ -277,8 +279,8 @@ public class CalculadoraResource {
         }
 
         // Envio correo elctronico
-        final String username = "informacionc0conrecol@gmail.com";
-        final String password = "C0nc$ec01Colom&ia";
+        final String username = "yeison6340@gmail.com";
+        final String password = "03216549877894561230";
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", true);
